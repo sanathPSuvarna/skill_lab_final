@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package.json
+package-lock.json
+# Logs
+*.log
+*.csv
+*.zip
+
+# IDE/Editor specific files
+.idea/
+.vscode/a
+*.iml
+
+# Build artifacts
+dist/
+build/
